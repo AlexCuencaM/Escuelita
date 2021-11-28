@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Escuelita" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Escuelita" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Escuelita" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="alumno.cpp" />
+		<Unit filename="app.cpp" />
+		<Unit filename="carrera.cpp">
+			<Option weight="95" />
+		</Unit>
+		<Unit filename="cedula.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="facultad.cpp">
+			<Option weight="100" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="materia.cpp" />
+		<Unit filename="semestre.cpp">
+			<Option weight="90" />
+		</Unit>
+		<Unit filename="struct/Facultad.h" />
+		<Unit filename="struct/alumno.h" />
+		<Unit filename="struct/carrera.h" />
+		<Unit filename="struct/materia.h" />
+		<Unit filename="struct/matricula.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="struct/paralelo.h" />
+		<Unit filename="struct/semestre.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

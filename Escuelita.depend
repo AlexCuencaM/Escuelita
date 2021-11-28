@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1615220277 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/alumno.cpp
+	<iostream>
+
+1615220278 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/carrera.cpp
+	<iostream>
+
+1615220279 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/facultad.cpp
+	<iostream>
+
+1615220284 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/materia.cpp
+	<iostream>
+
+1615220284 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/paralelo.cpp
+	<iostream>
+
+1615220273 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/semestre.cpp
+	<iostream>
+
+1615304178 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/main.cpp
+	<iostream>
+	"app.h"
+
+1615595341 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/alumno.h
+
+1615241842 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/alumno.h
+	<iostream>
+
+1615220278 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/carrera.h
+	<iostream>
+
+1615220284 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/materia.h
+	<iostream>
+
+1615220284 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/paralelo.h
+	<iostream>
+
+1615220273 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/semestre.h
+	<iostream>
+
+1615696845 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/alumno.cpp
+
+1615768191 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/app.h
+	<iostream>
+	"struct/Facultad.h"
+
+1615780486 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/app.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	"app.h"
+	"struct/Facultad.h"
+
+1615768087 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/Facultad.h
+	<iostream>
+	<vector>
+	<set>
+
+1615595024 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/carrera.h
+
+1615595025 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/semestre.h
+
+1615478869 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/materia.h
+	<iostream>
+	<vector>
+	"paralelo.h"
+
+1615431919 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/struct/paralelo.h
+	<iostream>
+	<vector>
+	"paralelo.h"
+	"alumno.h"
+
+1615780048 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/facultad.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<numeric>
+	<string>
+	"struct/Facultad.h"
+	"cedula.h"
+
+1615595021 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/carrera.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1615745354 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/materia.cpp
+
+1615595018 source:/home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/semestre.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	"struct/semestre.h"
+
+1615780711 /home/alex-cuenca/Documentos/C++ programs/Escuela/Escuelita/cedula.h
+	<string>
+	<iostream>
+
